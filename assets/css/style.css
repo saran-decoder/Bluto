@@ -268,7 +268,7 @@ body {
 
 img {
     vertical-align: middle;
-    max-width: 100%;
+    max-width: 150%; /* Changed 100% to 150%*/
     display: inline-block
 }
 
@@ -2283,7 +2283,7 @@ figure {
 
 .section.faq {
     background-color: var(--black);
-    padding-top: 220px;
+    padding-top: 130px; /* Changed 220px to 130px */
     position: relative
 }
 
@@ -3129,8 +3129,10 @@ figure {
 }
 
 .footer-logo {
-    width: 100vw;
-    max-width: 30%
+    width: 8vw; /* Changed 100vw to 8vw */
+    max-width: 30%;
+    /* Added */
+    border-radius: 10rem;
 }
 
 .footer-link-title {
@@ -3817,11 +3819,12 @@ figure {
 }
 
 .award-wrap {
-    border-right: 3px solid var(--hot-pink);
+    /* Changed Command Lines */
+    /* border-right: 3px solid var(--hot-pink);
     border-bottom: 3px solid var(--yellow);
     background-color: var(--black-3);
     border-radius: 999px;
-    padding: 15px;
+    padding: 15px; */
     position: absolute;
     inset: 10% 10% auto auto
 }
@@ -4176,7 +4179,7 @@ figure {
         margin-bottom: 40px
     }
     .footer-logo {
-        width: 100vw
+        width: 30vw /* Changed 100vw to 30vw */
     }
     .email-text {
         line-height: 1.6rem
