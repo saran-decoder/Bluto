@@ -2270,10 +2270,21 @@ figure {
     padding-bottom: 220px
 }
 
-.section.work-title {
-    background-color: var(--black);
+.section.careers-title {
+    background-color: var(--white);
     padding-top: 140px;
-    padding-bottom: 20px
+    /* padding-bottom: 20px */
+}
+
+a.mail-button {
+    background: var(--black);
+    padding: 15px;
+    border-radius: 5px;
+    font: status-bar;
+}
+
+a.mail-button:hover {
+    background: var(--black-2);
 }
 
 .section.portfolio-black {
@@ -2754,7 +2765,7 @@ figure {
     top: 0
 }
 
-.portfolio.item-1 {
+/* .portfolio.item-1 {
     background-color: var(--black);
     -webkit-backdrop-filter: blur(250px);
     backdrop-filter: blur(250px);
@@ -2777,7 +2788,7 @@ figure {
     background-image: url(https://cdn.prod.website-files.com/66e0ff1d538cb2fd57af0c90/66f6271e5d831262d7fa703b_dot%20bg.png);
     background-position: 0 0;
     background-size: cover
-}
+} */
 
 .button-wrap {
     border-radius: 0;
@@ -2893,7 +2904,7 @@ figure {
     background-image: radial-gradient(circle farthest-corner at 50% 100%, #000000d1 52%, var(--black))
 }
 
-.works-title-wrap,
+.careers-title-wrap,
 .faq-title-wrap {
     color: var(--white);
     text-align: center
@@ -2988,7 +2999,7 @@ figure {
     grid-column-gap: 16px;
     grid-row-gap: 16px;
     background-color: var(--black-2);
-    background-image: linear-gradient(#15151580, #15151580), url(https://cdn.prod.website-files.com/66e0ff1d538cb2fd57af0c90/66e925ab12e02fa86a97c190_img13.webp);
+    background-image: linear-gradient(#15151580, #15151580), url(../images/cbg.png);
     background-position: 0 0, 50%;
     background-size: auto, cover;
     border-radius: 15px;
@@ -3192,11 +3203,11 @@ figure {
 }
 
 .header-nav-link.w--current {
-    color: #d8d8d8
+    color: var(--black)
 }
 
 .header-nav-link.w--current:hover {
-    color: #fff
+    color: var(--black-2)
 }
 
 .header-nav-link.button-style {
@@ -3258,9 +3269,9 @@ figure {
     border-radius: 999px;
     justify-content: space-between;
     align-items: center;
-    margin-left: 20%;
-    margin-right: 20%;
-    padding-left: 20px;
+    width: max-content;
+    margin: auto;
+    padding-left: 10px;
     padding-right: 10px;
     display: flex
 }
@@ -4203,7 +4214,8 @@ figure {
         align-items: center;
         margin-left: 0%;
         margin-right: 0%;
-        display: flex
+        display: flex;
+        width: auto
     }
     .menu-list {
         grid-column-gap: 0px;
@@ -4423,7 +4435,7 @@ figure {
         margin-right: 0
     }
     .cta-wrap {
-        background-image: linear-gradient(#0000, #0000), url(https://cdn.prod.website-files.com/66e0ff1d538cb2fd57af0c90/66e925ab12e02fa86a97c190_img13.webp);
+        background-image: linear-gradient(#0000, #0000), url(../images/cbg.png);
         background-position: 0 0, 50% 0;
         background-size: auto, cover;
         flex-flow: column;
