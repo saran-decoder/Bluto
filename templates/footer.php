@@ -4,13 +4,13 @@
             <div class="row">
                 <div class="col-xl-6 col-md-6">
                     <div class="lets_projects">
-                        <h3>Let’s Start your project, <a href="#">Mail Us</a></h3>
+                        <h3>Let’s Start your project, <a href="mailto:bluto.teams@gmail.com">Mail Us</a></h3>
                     </div>
                 </div>
                 <div class="col-xl-6 col-md-6">
                     <div class="phone_number">
-                        <h3>+10 673 563 629</h3>
-                        <a href="#">support@seogo.com</a>
+                        <h3>+91 960 031 7637</h3>
+                        <a href="mailto:bluto.teams@gmail.com">bluto.teams@gmail.com</a>
                     </div>
                 </div>
             </div>
@@ -22,12 +22,13 @@
                 <div class="col-xl-3 col-md-6 col-lg-3">
                     <div class="footer_widget">
                         <div class="footer_logo">
-                            <a href="#">
-                                <img src="assets/img/footer_logo.png" alt="" />
+                            <a href="index.php" class="d-flex align-items-center">
+                                <img src="assets/img/footer_logo.png" class="logo" alt="Footer Logo" />
+                                <h4 class="ml-2 mb-0" style="color: #fff;">Bluto</h4>
                             </a>
                         </div>
                         <p>
-                            Esteem spirit temper too say adieus who direct esteem. It esteems luckily or picture placing drawing.
+                            At Bluto Corporation, we are driven by innovation and a passion for cutting edge technology.
                         </p>
                         <div class="socail_links">
                             <ul>
@@ -38,12 +39,22 @@
                                 </li>
                                 <li>
                                     <a href="#">
-                                        <i class="ti-twitter-alt"></i>
+                                        <i class="fa-brands fa-instagram"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://wa.me/919600317637">
+                                        <i class="fa-brands fa-whatsapp"></i>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="#">
-                                        <i class="fa fa-instagram"></i>
+                                        <i class="ti-linkedin"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <i class="fa-brands fa-x-twitter"></i>
                                     </a>
                                 </li>
                             </ul>
@@ -56,24 +67,22 @@
                             Services
                         </h3>
                         <ul>
-                            <li><a href="#">Marketing &amp; SEO</a></li>
-                            <li><a href="#"> Startup</a></li>
-                            <li><a href="#">Finance solution</a></li>
-                            <li><a href="#">Food</a></li>
-                            <li><a href="#">Travel</a></li>
+                            <li><a href="services.php">Web design & developent</a></li>
+                            <li><a href="services.php">App design & developent</a></li>
+                            <li><a href="services.php">Digital Marketing</a></li>
                         </ul>
                     </div>
                 </div>
                 <div class="col-xl-2 col-md-6 col-lg-2">
                     <div class="footer_widget">
                         <h3 class="footer_title">
-                            Useful Links
+                            Quick Links
                         </h3>
                         <ul>
-                            <li><a href="#">About</a></li>
-                            <li><a href="#">Blog</a></li>
-                            <li><a href="#"> Contact</a></li>
-                            <li><a href="#">Appointment</a></li>
+                            <li><a href="index.php">Home</a></li>
+                            <li><a href="about.php">About</a></li>
+                            <li><a href="services.php">Services</a></li>
+                            <li><a href="contact.php">Contact</a></li>
                         </ul>
                     </div>
                 </div>
@@ -82,11 +91,11 @@
                         <h3 class="footer_title">
                             Subscribe
                         </h3>
-                        <form action="#" class="newsletter_form">
+                        <form action="https://wa.me/919600317637?text=Hello!%20I'm%20interested%20in%20your%20services.%20Please%20share%20more%20details." class="newsletter_form">
                             <input type="text" placeholder="Enter your mail" />
                             <button type="submit">Subscribe</button>
                         </form>
-                        <p class="newsletter_text">Esteem spirit temper too say adieus who direct esteem esteems luckily.</p>
+                        <p class="newsletter_text">Stay updated with the latest trends and insights. Subscribe now and never miss an update!</p>
                     </div>
                 </div>
             </div>
@@ -103,7 +112,7 @@
                         <script>
                             document.write(new Date().getFullYear());
                         </script>
-                        All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+                        All rights reserved by <i class="fa fa-heart-o" aria-hidden="true"></i> <a href="https://bluto.com" target="_blank">Bluto Corporation</a>
                         <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                     </p>
                 </div>

@@ -1,6 +1,3 @@
-<!-- Page Title -->
-<title>Bluto</title>
-
 <!-- Canonical URL -->
 <link rel="canonical" href="https://bluto.com/">
 
@@ -20,3 +17,5 @@
 <link rel="stylesheet" href="assets/css/slick.css">
 <link rel="stylesheet" href="assets/css/slicknav.css">
 <link rel="stylesheet" href="assets/css/style.css">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">

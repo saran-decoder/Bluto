@@ -3101,6 +3101,8 @@ h3 {
   -webkit-border-radius: 10px;
   -moz-border-radius: 10px;
   border-radius: 10px;
+  background: #ffffff;
+  border-radius: 2rem;
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
