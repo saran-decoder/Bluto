@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html class="no-js" lang="en">
     <head>
         <meta charset="UTF-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -15,12 +15,12 @@
         <!-- header-end -->
 
         <div class="shap_big_2 d-none d-lg-block Another_shap_big">
-            <img src="assets/img/ilstrator/big.png" alt="" />
+            <img src="assets/img/ilstrator/big.png" alt="Big Image" />
         </div>
         <!-- bradcam_area  -->
         <div class="bradcam_area">
             <div class="bradcam_shap">
-                <img src="assets/img/ilstrator/bradcam_ils.png" alt="" />
+                <img src="assets/img/ilstrator/bradcam_ils.png" alt="Bradcam Ils Image" />
             </div>
             <div class="container">
                 <div class="row">
@@ -46,31 +46,28 @@
                     <div class="col-xl-4 col-md-4">
                         <div class="single_service text-center">
                             <div class="icon">
-                                <img src="assets/img/svg_icon/seo_1.svg" alt="" />
+                                <img src="assets/img/svg_icon/web-development.svg" alt="Web Development" style="width: 4rem;" />
                             </div>
-                            <h3>SEO/SEM</h3>
-                            <p>Esteem spirit temper too say adieus who direct esteem. It esteems luckily or picture placing drawing.</p>
-                            <a href="#" class="boxed-btn3-text">Learn More</a>
+                            <h3>Website Design & Development</h3>
+                            <p>Build custom websites that deliver seamless user experiences and drive conversions.</p>
                         </div>
                     </div>
                     <div class="col-xl-4 col-md-4">
                         <div class="single_service text-center">
                             <div class="icon">
-                                <img src="assets/img/svg_icon/seo_2.svg" alt="" />
+                                <img src="assets/img/svg_icon/app-development.svg" alt="App Development" style="width: 4rem;" />
+                            </div>
+                            <h3>App Development</h3>
+                            <p>Creating apps that engage, empower, and provide a seamless user experience, from concept to deployment.</p>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-md-4">
+                        <div class="single_service text-center">
+                            <div class="icon">
+                                <img src="assets/img/svg_icon/digital-marketing.svg" alt="Digital Marketing" />
                             </div>
                             <h3>Digital Marketing</h3>
-                            <p>Esteem spirit temper too say adieus who direct esteem. It esteems luckily or picture placing drawing.</p>
-                            <a href="#" class="boxed-btn3-text">Learn More</a>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-md-4">
-                        <div class="single_service text-center">
-                            <div class="icon">
-                                <img src="assets/img/svg_icon/seo_3.svg" alt="" />
-                            </div>
-                            <h3>Social Media</h3>
-                            <p>Esteem spirit temper too say adieus who direct esteem. It esteems luckily or picture placing drawing.</p>
-                            <a href="#" class="boxed-btn3-text">Learn More</a>
+                            <p>Maximizing your brand's reach with targeted strategies designed to increase engagement, traffic, and conversions.</p>
                         </div>
                     </div>
                 </div>
@@ -86,12 +83,9 @@
                         <div class="section_title text-center">
                             <h3>
                                 We have some awesome features <br />
-                                to rank your business
+                                to grow your business
                             </h3>
-                            <p>
-                                Esteem spirit temper too say adieus who direct esteem. It esteems luckily or <br />
-                                picture placing drawing.
-                            </p>
+                            <p>Experience innovative solutions designed to elevate your business. <br>From seamless user experiences to impactful digital strategies, we help you stay ahead of the competition.</p>
                         </div>
                     </div>
                 </div>
@@ -99,131 +93,61 @@
                     <div class="col-xl-4 col-md-6 col-lg-4">
                         <div class="single_feature">
                             <div class="icon">
-                                <img src="assets/img/svg_icon/feature_1.svg" alt="" />
+                                <img src="assets/img/svg_icon/feature_1.svg" alt="Feature SVG" />
                             </div>
-                            <h4>Custom design</h4>
-                            <p>Esteem spirit temper too say adieus who direct esteem.</p>
+                            <h4>Web design & develop</h4>
+                            <p>Crafting visually stunning and highly functional websites to elevate your online presence.</p>
                         </div>
                     </div>
                     <div class="col-xl-4 col-md-6 col-lg-4">
                         <div class="single_feature">
                             <div class="icon">
-                                <img src="assets/img/svg_icon/feature_2.svg" alt="" />
+                                <img src="assets/img/svg_icon/feature_2.svg" alt="Feature SVG" />
                             </div>
-                            <h4>Paid Search result</h4>
-                            <p>Esteem spirit temper too say adieus who direct esteem.</p>
+                            <h4>App Design & Develop</h4>
+                            <p>Building intuitive and high-performance mobile applications tailored to your business needs.</p>
                         </div>
                     </div>
                     <div class="col-xl-4 col-md-6 col-lg-4">
                         <div class="single_feature">
                             <div class="icon">
-                                <img src="assets/img/svg_icon/feature_3.svg" alt="" />
+                                <img src="assets/img/svg_icon/feature_3.svg" alt="Feature SVG" />
                             </div>
-                            <h4>Global Search option</h4>
-                            <p>Esteem spirit temper too say adieus who direct esteem.</p>
+                            <h4>Digital Marketing</h4>
+                            <p>Boosting your brand’s online reach with strategic marketing campaigns and SEO optimization.</p>
                         </div>
                     </div>
                     <div class="col-xl-4 col-md-6 col-lg-4">
                         <div class="single_feature">
                             <div class="icon">
-                                <img src="assets/img/svg_icon/feature_4.svg" alt="" />
+                                <img src="assets/img/svg_icon/feature_4.svg" alt="Feature SVG" />
                             </div>
-                            <h4>Email Marketing</h4>
-                            <p>Esteem spirit temper too say adieus who direct esteem.</p>
+                            <h4>Cyber Security</h4>
+                            <p>Protecting your digital assets with cutting-edge security solutions and proactive threat management.</p>
                         </div>
                     </div>
                     <div class="col-xl-4 col-md-6 col-lg-4">
                         <div class="single_feature">
                             <div class="icon">
-                                <img src="assets/img/svg_icon/feature_5.svg" alt="" />
+                                <img src="assets/img/svg_icon/feature_5.svg" alt="Feature SVG" />
                             </div>
                             <h4>Custom Software</h4>
-                            <p>Esteem spirit temper too say adieus who direct esteem.</p>
+                            <p>Developing tailored software solutions to streamline operations and enhance productivity.</p>
                         </div>
                     </div>
                     <div class="col-xl-4 col-md-6 col-lg-4">
                         <div class="single_feature">
                             <div class="icon">
-                                <img src="assets/img/svg_icon/feature_6.svg" alt="" />
+                                <img src="assets/img/svg_icon/feature_6.svg" alt="Feature SVG" />
                             </div>
-                            <h4>Setup business goal</h4>
-                            <p>Esteem spirit temper too say adieus who direct esteem.</p>
+                            <h4>Data Analysis</h4>
+                            <p>Turning raw data into valuable insights to drive informed business decisions.</p>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
         <!--/ features_area  -->
-
-        <!-- testimonial_area  -->
-        <div class="testimonial_area">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-12">
-                        <div class="testmonial_active owl-carousel">
-                            <div class="single_carousel">
-                                <div class="single_testmonial text-center">
-                                    <div class="quote">
-                                        <img src="assets/img/testmonial/quote.svg" alt="" />
-                                    </div>
-                                    <p>
-                                        Donec imperdiet congue orci consequat mattis. Donec rutrum porttitor <br />
-                                        sollicitudin. Pellentesque id dolor tempor sapien feugiat ultrices nec sed neque. <br />
-                                        Fusce ac mattis nulla. Morbi eget ornare dui.
-                                    </p>
-                                    <div class="testmonial_author">
-                                        <div class="thumb">
-                                            <img src="assets/img/testmonial/thumb.png" alt="" />
-                                        </div>
-                                        <h3>Robert Thomson</h3>
-                                        <span>Business Owner</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="single_carousel">
-                                <div class="single_testmonial text-center">
-                                    <div class="quote">
-                                        <img src="assets/img/testmonial/quote.svg" alt="" />
-                                    </div>
-                                    <p>
-                                        Donec imperdiet congue orci consequat mattis. Donec rutrum porttitor <br />
-                                        sollicitudin. Pellentesque id dolor tempor sapien feugiat ultrices nec sed neque. <br />
-                                        Fusce ac mattis nulla. Morbi eget ornare dui.
-                                    </p>
-                                    <div class="testmonial_author">
-                                        <div class="thumb">
-                                            <img src="assets/img/testmonial/thumb.png" alt="" />
-                                        </div>
-                                        <h3>Robert Thomson</h3>
-                                        <span>Business Owner</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="single_carousel">
-                                <div class="single_testmonial text-center">
-                                    <div class="quote">
-                                        <img src="assets/img/testmonial/quote.svg" alt="" />
-                                    </div>
-                                    <p>
-                                        Donec imperdiet congue orci consequat mattis. Donec rutrum porttitor <br />
-                                        sollicitudin. Pellentesque id dolor tempor sapien feugiat ultrices nec sed neque. <br />
-                                        Fusce ac mattis nulla. Morbi eget ornare dui.
-                                    </p>
-                                    <div class="testmonial_author">
-                                        <div class="thumb">
-                                            <img src="assets/img/testmonial/thumb.png" alt="" />
-                                        </div>
-                                        <h3>Robert Thomson</h3>
-                                        <span>Business Owner</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- /testimonial_area  -->
 
         <?php include "templates/footer.php" ?>
     </body>

@@ -61,7 +61,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-2 col-md-6 col-lg-3">
+                <div class="col-xl-3 col-md-6 col-lg-3">
                     <div class="footer_widget">
                         <h3 class="footer_title">
                             Services
@@ -86,7 +86,7 @@
                         </ul>
                     </div>
                 </div>
-                <div class="col-xl-4 offset-xl-1 col-md-6 col-lg-4">
+                <div class="col-xl-3 offset-xl-1 col-md-6 col-lg-3">
                     <div class="footer_widget">
                         <h3 class="footer_title">
                             Subscribe
@@ -120,6 +120,8 @@
         </div>
     </div>
 </footer>
+
+<a href="https://wa.me/919600317637" class="whatsapp_float" target="_blank"> <i class="fa fa-whatsapp whatsapp-icon"></i></a>
 
 <!-- JS here -->
 <script src="assets/js/vendor/modernizr-3.5.0.min.js"></script>

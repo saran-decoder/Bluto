@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html class="no-js" lang="en">
     <head>
         <meta charset="UTF-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -22,15 +22,15 @@
         <!-- header-end -->
 
         <div class="shap_big_2 d-none d-lg-block">
-            <img src="assets/img/ilstrator/body_shap_2.png" alt="" />
+            <img src="assets/img/ilstrator/body_shap_2.png" alt="Body Shap Image" />
         </div>
         <!-- slider_area_start -->
         <div class="slider_area">
             <div class="shap_img_1 d-none d-lg-block">
-                <img src="assets/img/ilstrator/body_shap_1.png" alt="" />
+                <img src="assets/img/ilstrator/body_shap_1.png" alt="Body Shap Image" />
             </div>
             <div class="poly_img">
-                <img src="assets/img/ilstrator/poly.png" alt="" />
+                <img src="assets/img/ilstrator/poly.png" alt="Poly Image" />
             </div>
             <div class="single_slider d-flex align-items-center slider_bg_1">
                 <div class="container">
@@ -59,7 +59,7 @@
                 <div class="row">
                     <div class="col-xl-5 col-md-5 d-flex align-items-center">
                         <div class="man_thumb">
-                            <img src="assets/img/ilstrator/man.png" alt="" />
+                            <img src="assets/img/ilstrator/man.png" alt="Man Abou Image" />
                         </div>
                     </div>
                     <div class="col-xl-7 col-md-7">
