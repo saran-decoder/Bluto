@@ -3,11 +3,11 @@
     <head>
         <meta charset="UTF-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-        <meta name="description" content="" />
-        <meta name="keywords" content="" />
-        <meta name="author" content="Bluto" />
-        <meta name="robots" content="index, follow" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="description" content="Boost your business with expert web & app development, digital marketing, cybersecurity, and data analysis to enhance your online presence and growth!" />
+        <meta name="keywords" content="Best Website Development Company, Website Design Company, Website Design, web design company, best webdesign and development, Ecommerce website, dynamic website, static website, web development company, webdesign Company, Thiruvannamalai, Tamil Nadu, India" />
+        <meta name="author" content="Bluto Corporation" />
+	    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 
         <!-- Page Title -->
         <title>Bluto Corporation</title>
@@ -74,6 +74,31 @@
                             </p>
 
                             <a href="about.php" class="boxed-btn3">Read More</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="service_area pt-0">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-6 col-md-6">
+                        <div class="single_service text-center">
+                            <div class="icon">
+                                <img src="assets/img/svg_icon/feature_7.svg" alt="Feature SVG" style="width: 4rem;" />
+                            </div>
+                            <h3>Our Mission</h3>
+                            <p>At Bluto Corporation, our mission is to empower businesses with innovative, secure, and high-performance digital solutions. We strive to bridge the gap between technology and business growth by delivering cutting-edge web development, robust cybersecurity, advanced software solutions, and intelligent data analytics. Through continuous innovation and a customer-centric approach, we aim to provide seamless, scalable, and future-proof solutions that drive success.</p>
+                        </div>
+                    </div>
+                    <div class="col-xl-6 col-md-6">
+                        <div class="single_service text-center">
+                            <div class="icon">
+                                <img src="assets/img/svg_icon/feature_8.svg" alt="Feature SVG" style="width: 4rem;" />
+                            </div>
+                            <h3>Our Vision</h3>
+                            <p>Our vision is to become a global leader in digital transformation and cybersecurity, redefining how businesses interact with technology. We aspire to create a world where secure, intelligent, and user-friendly digital solutions enhance business efficiency and user experience. With a commitment to excellence and innovation, we envision Bluto Corporation as a brand synonymous with trust, creativity, and technological advancement.</p>
                         </div>
                     </div>
                 </div>
