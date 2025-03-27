@@ -6,7 +6,7 @@
                     <div class="col-xl-3 col-lg-2">
                         <div class="logo">
                             <a href="index.php">
-                                <img src="assets/img/logo.png" class="logo" alt="Logo" />
+                                <img src="assets/img/logo.png" class="logo" alt="Blueto Corporation Logo" />
                             </a>
                         </div>
                     </div>
